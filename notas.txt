@@ -1,0 +1,10 @@
+API KEY: AIzaSyBgZFLq8XuoNexPw7bLNns9fgiIOfDVvaU
+
+
+GOOGLE MAPS API: https://developers.google.com/maps/documentation/directions/intro#https-o-http
+
+
+COMPONENTE ANGULAR 2 - GOOGLE MAPS: https://angular-maps.com/docs/getting-started.html
+	Habilitar GoogleMaps Javascript API
+	
+DIRECCION DE UN PUNTO A OTRO http://www.17educations.com/angularjs-2/google-map-directions-display-angular-2/
