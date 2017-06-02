@@ -8,3 +8,6 @@ COMPONENTE ANGULAR 2 - GOOGLE MAPS: https://angular-maps.com/docs/getting-starte
 	Habilitar GoogleMaps Javascript API
 	
 DIRECCION DE UN PUNTO A OTRO http://www.17educations.com/angularjs-2/google-map-directions-display-angular-2/
+
+
+AVERIGUAR SOBRE: Angular 2 JSON2 CSV  -> https://www.npmjs.com/package/angular2-json2csv
